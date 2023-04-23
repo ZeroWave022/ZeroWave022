@@ -1,16 +1,40 @@
-### Hi there 👋
+## Hey there! 👋
 
-<!--
-**ZeroWave022/ZeroWave022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack developer designing systems, packages, and websites.
 
-Here are some ideas to get you started:
+### Some interesting projects
+- [Discover Poland](https://github.com/ZeroWave022/DiscoverPoland): A website promoting tourism in Poland 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm currently working on
+- [MusicVision](https://github.com/ZeroWave022/MusicVision): An open-source online dashboard for your Spotify profile
+- [yr-weather](https://github.com/ZeroWave022/yr-weather): A Python package to retrieve weather data from the Norwegian Meteorological Institute's APIs
+
+### Technologies
+
+#### Programming languages
+![Programming language icons](https://skillicons.dev/icons?i=py,ts,js)
+
+I have used these somewhat:
+
+![Programming language icons](https://skillicons.dev/icons?i=cs,cpp)
+
+#### Websites: Front-end
+![Front-end icons](https://skillicons.dev/icons?i=html,css,react)
+
+#### Websites: Back-end
+![Back-end icons](https://skillicons.dev/icons?i=nginx,nextjs,express,flask,jquery)
+
+#### Databases
+![Database icons](https://skillicons.dev/icons?i=mongodb,postgres,mysql)
+
+#### Hosting
+![Hosting icons](https://skillicons.dev/icons?i=cloudflare,netlify,raspberrypi)
+
+#### Games
+![Game icons](https://skillicons.dev/icons?i=unity)
+
+#### Tools and utilities
+![Tools and utility icons](https://skillicons.dev/icons?i=git,github,md,postman)
+
+### GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroWave022&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
