@@ -1,15 +1,16 @@
 ## Hey there! 👋
 
-I'm a fullstack developer designing systems, packages, and websites.
+I'm a full-stack developer designing websites, libraries, bots, scripts, games and probably other new stuff too.
 
-### Some interesting projects
+Check out my [website](https://zerowave.pages.dev/) to learn more!
 
-- [Discover Poland](https://github.com/ZeroWave022/DiscoverPoland): A website promoting tourism in Poland 
+### Some of my projects
 
-### I'm currently working on
-
-- [MusicVision](https://github.com/ZeroWave022/MusicVision): An open-source online dashboard for your Spotify profile
 - [yr-weather](https://github.com/ZeroWave022/yr-weather): A Python package to retrieve weather data from the Norwegian Meteorological Institute's APIs
+- [mdtables](https://mdtables.pages.dev/): A simple website for generating markdown tables from manual data input or files
+- [TrafficEvader](https://github.com/ZeroWave022/TrafficEvader): A simple car game about, well, evading the traffic
+- [Discover Poland](https://github.com/ZeroWave022/DiscoverPoland): A website promoting tourism in Poland
+- [MusicVision](https://github.com/ZeroWave022/MusicVision): An open-source online dashboard for your Spotify profile
 
 ### Technologies
 
