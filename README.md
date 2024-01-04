@@ -14,6 +14,10 @@ Check out my [website](https://zerowave.pages.dev/) to learn more!
 
 ### Technologies
 
+<details>
+
+<summary>View list</summary>
+
 #### Programming languages
 
 ![Programming language icons](https://skillicons.dev/icons?i=py,ts,js,cs,cpp)
@@ -42,6 +46,14 @@ Check out my [website](https://zerowave.pages.dev/) to learn more!
 
 ![Tools and utility icons](https://skillicons.dev/icons?i=git,github,md,postman)
 
+</details>
+
 ### GitHub stats
 
+<details>
+
+<summary>View stats</summary>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroWave022&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
+
+</details>
