@@ -20,23 +20,23 @@ Check out my [website](https://zerowave.pages.dev/) to learn more!
 
 #### Programming languages
 
-![Programming language icons](https://skillicons.dev/icons?i=py,ts,js,cs,cpp)
+![Programming language icons](https://skillicons.dev/icons?i=py,ts,js,java,php,cs,cpp)
 
 #### Websites: Front-end
 
-![Front-end icons](https://skillicons.dev/icons?i=html,css,react)
+![Front-end icons](https://skillicons.dev/icons?i=html,css,react,tailwind)
 
-#### Websites: Back-end
+#### Websites: Frameworks & related tools
 
-![Back-end icons](https://skillicons.dev/icons?i=nginx,nextjs,express,flask,jquery)
+![Back-end icons](https://skillicons.dev/icons?i=nextjs,prisma,flask,vue,nginx,jquery,express,pnpm,selenium)
 
 #### Databases
 
-![Database icons](https://skillicons.dev/icons?i=mongodb,postgres,mysql)
+![Database icons](https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase)
 
 #### Hosting
 
-![Hosting icons](https://skillicons.dev/icons?i=cloudflare,netlify,raspberrypi)
+![Hosting icons](https://skillicons.dev/icons?i=cloudflare,raspberrypi,netlify,vercel,gcp)
 
 #### Games
 
@@ -44,7 +44,7 @@ Check out my [website](https://zerowave.pages.dev/) to learn more!
 
 #### Tools and utilities
 
-![Tools and utility icons](https://skillicons.dev/icons?i=git,github,md,postman)
+![Tools and utility icons](https://skillicons.dev/icons?i=linux,git,github,githubactions,postman,obsidian,md)
 
 </details>
 
